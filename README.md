@@ -81,7 +81,7 @@ For starting translations in a new language:
 - For updating the `xx.po` file, use `./translations.sh xx`.
 - Avoid the above command if the `xx.po` file already exists (which means you are not initiating a new translation).
 
-## Contributors ✨
+## Contributors! ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
